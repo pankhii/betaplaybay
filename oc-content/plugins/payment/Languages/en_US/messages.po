@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-08-24 14:12+0400\n"
+"PO-Revision-Date: 2013-08-24 14:12+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\PlayAndBay\\oc-content\\plugins\\payment\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/functions.php:81
+msgid "Pay with your credit"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/index.php:53
+msgid "Payment options"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/index.php:54
+msgid "Categories fees"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/index.php:131
+msgid "Listings payment status"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/index.php:133
+msgid "Buy credit for payments"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:53
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf_prices.php:34
+msgid "Congratulations, the plugin is now configured"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:64
+msgid "Paypal help"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:81
+#, php-format
+msgid "Please, change the crypt key (PAYMENT_CRYPT_KEY) in %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:160
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:164
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:168
+#, php-format
+msgid "Price of pack #%d"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:281
+msgid "Save changes"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:312
+#, php-format
+msgid ""
+"You need to sign in up for micropayments/digital good <a href=\"%s\">from "
+"here</a>."
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf_prices.php:78
+#, php-format
+msgid "Publish fee (%s)"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf_prices.php:79
+#, php-format
+msgid "Premium fee (%s)"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/blockchain/Blockchain.php:56
+#, php-format
+msgid "Please send %f BTC to <br /> <b>[[address]]</b></p>"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/braintree/BraintreePayment.php:40
+msgid "Pay with credit card"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/braintree/BraintreePayment.php:114
+#, php-format
+msgid ""
+"Success! Please write down this transaction ID in case you have any problem: "
+"%s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/cancel.php:27
+msgid ""
+"You cancel the payment process or there was an error. If the error continue, "
+"please contact the administrator"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:20
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:116
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:121
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:125
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:129
+#: C:\PlayAndBay\oc-content\plugins\payment/user/wallet.php:43
+msgid "Payment processed correctly"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:42
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:133
+msgid ""
+"We are processing your payment, if we did not finish in a few seconds, "
+"please contact us"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:121
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:125
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:129
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:143
+msgid "Click here to continue"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:143
+msgid ""
+"There was a problem processing your payment. Please contact the "
+"administrators and"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:146
+msgid ""
+"There was a problem processing your payment. Please contact the "
+"administrators"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/makepremium.php:21
+#: C:\PlayAndBay\oc-content\plugins\payment/user/payperpublish.php:21
+#, php-format
+msgid "The current fee for this category is: %.2f %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/makepremium.php:25
+#: C:\PlayAndBay\oc-content\plugins\payment/user/makepremium.php:28
+#: C:\PlayAndBay\oc-content\plugins\payment/user/makepremium.php:31
+#: C:\PlayAndBay\oc-content\plugins\payment/user/makepremium.php:34
+#: C:\PlayAndBay\oc-content\plugins\payment/user/makepremium.php:39
+#: C:\PlayAndBay\oc-content\plugins\payment/user/makepremium.php:42
+#: C:\PlayAndBay\oc-content\plugins\payment/user/makepremium.php:45
+#, php-format
+msgid "Premium fee for item %d at %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/pack.php:18
+#: C:\PlayAndBay\oc-content\plugins\payment/user/pack.php:23
+#, php-format
+msgid "Credit packs. Your current credit is %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/pack.php:25
+msgid "Your wallet is empty. Buy some credits."
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/pack.php:35
+#, php-format
+msgid "Credit pack #%d"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/pack.php:39
+#: C:\PlayAndBay\oc-content\plugins\payment/user/pack.php:44
+#: C:\PlayAndBay\oc-content\plugins\payment/user/pack.php:49
+#, php-format
+msgid "Credit for %s %s at %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/payperpublish.php:25
+#: C:\PlayAndBay\oc-content\plugins\payment/user/payperpublish.php:28
+#: C:\PlayAndBay\oc-content\plugins\payment/user/payperpublish.php:31
+#: C:\PlayAndBay\oc-content\plugins\payment/user/payperpublish.php:34
+#: C:\PlayAndBay\oc-content\plugins\payment/user/payperpublish.php:39
+#: C:\PlayAndBay\oc-content\plugins\payment/user/payperpublish.php:42
+#: C:\PlayAndBay\oc-content\plugins\payment/user/payperpublish.php:45
+#, php-format
+msgid "Publish fee for item %d at %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/wallet.php:46
+msgid ""
+"There were some errors, please try again later or contact the administrators"
+msgstr ""

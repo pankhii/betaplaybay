@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-08-27 16:09+0400\n"
+"PO-Revision-Date: 2013-08-27 16:11+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\PlayAndBay\\oc-content\\plugins\\payment\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/functions.php:95
+msgid "Pay with your credit"
+msgstr "Оплата кредитами"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/index.php:66
+msgid "Payment options"
+msgstr "Варианты оплаты"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/index.php:67
+msgid "Categories fees"
+msgstr "Сборы для категорий"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:70
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf_prices.php:34
+msgid "Congratulations, the plugin is now configured"
+msgstr "Поздравляем, плагин теперь настроен"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:81
+msgid "Paypal help"
+msgstr "Paypal помощь"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:87
+msgid "Blockchain help"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:93
+msgid "Braintree help"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:99
+msgid "Stripe help"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:105
+msgid "CoinJar help"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:110
+#, php-format
+msgid "Please, change the crypt key (PAYMENT_CRYPT_KEY) in %s"
+msgstr "Пожалуйста, измените крипт ключ (PAYMENT_CRYPT_KEY) в %s"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:189
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:193
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:197
+#, php-format
+msgid "Price of pack #%d"
+msgstr "Цена пакета #%d"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:401
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:432
+#, php-format
+msgid ""
+"You need to sign in up for micropayments/digital good <a href=\"%s\">from "
+"here</a>."
+msgstr "Вы должны авторизоваться для платежей <a href=\"%s\">здесь</a>."
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:467
+#, php-format
+msgid "Bitcoin official website: %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:469
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:500
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:518
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:536
+#, php-format
+msgid "Getting started: %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:471
+#, php-format
+msgid "F.A.Q.: %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:473
+#, php-format
+msgid "We use coins: %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:475
+#, php-format
+msgid "More info about Blockchain: %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:498
+#, php-format
+msgid "Braintree official website: %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:516
+#, php-format
+msgid "Stripe official website: %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf.php:534
+#, php-format
+msgid "CoinJar official website: %s"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf_prices.php:78
+#, php-format
+msgid "Publish fee (%s)"
+msgstr "Сбор за публикацию ( %s)"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/admin/conf_prices.php:79
+#, php-format
+msgid "Premium fee (%s)"
+msgstr "Сбор за премиум ( %s)"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/blockchain/Blockchain.php:57
+#, php-format
+msgid "Please send %f BTC to <br /> <b>[[address]]</b></p>"
+msgstr "Пожалуйста, отправьте %f BTC на <br /> <b>[[address]]</b></p>"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/braintree/BraintreePayment.php:113
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/stripe/StripePayment.php:101
+#, php-format
+msgid ""
+"Success! Please write down this transaction ID in case you have any problem: "
+"%s"
+msgstr ""
+"Отлично! Пожалуйста, запишите этот идентификатор транзакции в случае, если у "
+"вас возникнут проблемы: %s"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/coinjar/cancel.php:17
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/cancel.php:27
+msgid ""
+"You cancel the payment process or there was an error. If the error continue, "
+"please contact the administrator"
+msgstr ""
+"Вы отменили процесс оплаты или произошла ошибка. Если произошла ошибка, "
+"пожалуйста, обратитесь к администратору"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/coinjar/return.php:6
+#, fuzzy
+msgid ""
+"We are processing your payment, if we did not finish in a few minutes, "
+"please contact us"
+msgstr ""
+"Мы обрабатываем ваш платеж, если мы не закончим в течение нескольких секунд, "
+"пожалуйста, свяжитесь с нами"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:20
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:116
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:121
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:125
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:129
+#: C:\PlayAndBay\oc-content\plugins\payment/user/wallet.php:43
+msgid "Payment processed correctly"
+msgstr "Оплата обработалась корректно"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:42
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:133
+msgid ""
+"We are processing your payment, if we did not finish in a few seconds, "
+"please contact us"
+msgstr ""
+"Мы обрабатываем ваш платеж, если мы не закончим в течение нескольких секунд, "
+"пожалуйста, свяжитесь с нами"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:121
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:125
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:129
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:143
+msgid "Click here to continue"
+msgstr "Нажмите здесь, чтобы продолжить"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:143
+msgid ""
+"There was a problem processing your payment. Please contact the "
+"administrators and"
+msgstr ""
+"Произошла ошибка в процессе оплаты, пожалуйста, обратитесь к администратору и"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/paypal/return.php:146
+msgid ""
+"There was a problem processing your payment. Please contact the "
+"administrators"
+msgstr ""
+"Произошла ошибка в процессе оплаты, пожалуйста, обратитесь к администратору"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/stripe/StripePayment.php:79
+msgid "Please wait a moment while we're processing your payment"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/payments/stripe/StripePayment.php:124
+msgid "Warning! This payment was already paid"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/makepremium.php:21
+#: C:\PlayAndBay\oc-content\plugins\payment/user/payperpublish.php:21
+#, php-format
+msgid "The current fee for this category is: %.2f %s"
+msgstr "Текущий сбор за эту категорию составляет: %.2f %s"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/makepremium.php:25
+#: C:\PlayAndBay\oc-content\plugins\payment/user/makepremium.php:27
+#: C:\PlayAndBay\oc-content\plugins\payment/user/makepremium.php:30
+#, php-format
+msgid "Premium fee for item %d at %s"
+msgstr "Премиум плата за пункт %d at %s"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/pack.php:18
+#: C:\PlayAndBay\oc-content\plugins\payment/user/pack.php:23
+#, php-format
+msgid "Credit packs. Your current credit is %s"
+msgstr "Кредитные пакеты. Ваш текущий кредит %s"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/pack.php:25
+msgid "Your wallet is empty. Buy some credits."
+msgstr "Ваш кошелек пуст. Купите несколько кредитов."
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/pack.php:35
+#, php-format
+msgid "Credit pack #%d"
+msgstr "Кредитный пакет #%d"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/pack.php:38
+#, php-format
+msgid "Credit for %s %s at %s"
+msgstr "Кредит для %s %s в %s"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/payperpublish.php:26
+#: C:\PlayAndBay\oc-content\plugins\payment/user/payperpublish.php:28
+#: C:\PlayAndBay\oc-content\plugins\payment/user/payperpublish.php:31
+#, php-format
+msgid "Publish fee for item %d at %s"
+msgstr "Публикация платы за пункт %d at %s"
+
+#: C:\PlayAndBay\oc-content\plugins\payment/user/wallet.php:46
+msgid ""
+"There were some errors, please try again later or contact the administrators"
+msgstr ""
+"Произошла ошибка, пожалуйста, повторите попытку позже или обратитесь к "
+"администратору"
+
+#~ msgid "Listings payment status"
+#~ msgstr "Оплаченные объявления"
+
+#~ msgid "Buy credit for payments"
+#~ msgstr "Купить кредиты для оплаты"
+
+#~ msgid "Pay with credit card"
+#~ msgstr "Оплата кредитной картой"

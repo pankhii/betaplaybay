@@ -1,0 +1,1003 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-09-17 16:22+0400\n"
+"PO-Revision-Date: 2013-09-17 16:23+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\PlayAndBay\\oc-content\\themes\\bender_black\n"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/404.php:8
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Простите, но я не могу найти страницу, которую Вы ищите"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/404.php:10
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "Позвольте Вам помочь, у нас есть несколько подсказок, чтобы найти это."
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/404.php:13
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Искать</strong> это:"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/404.php:18
+#: C:\PlayAndBay\oc-content\themes\bender_black/header.php:96
+msgid "Search"
+msgstr "Поиск"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/404.php:22
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Искать</strong> в наиболее популярных категориях."
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/alert-form.php:27
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Вы успешно подписались на оповещение"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/alert-form.php:28
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_email.php:73
+msgid "Invalid email address"
+msgstr "Неверный email адрес"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/alert-form.php:29
+msgid "There was a problem with the alert"
+msgstr "Обнаружена проблема с оповещением"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/alert-form.php:60
+msgid "Subscribe to this search"
+msgstr "Подписаться на этот поиск"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/alert-form.php:75
+msgid "Subscribe now"
+msgstr "Подписаться сейчас"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/contact.php:31
+msgid "Contact us"
+msgstr "Связаться с нами"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/contact.php:40
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-send-friend.php:44
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:76
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:190
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-sidebar.php:33
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/contact.php:41
+#: C:\PlayAndBay\oc-content\themes\bender_black/contact.php:54
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:84
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-sidebar.php:41
+msgid "optional"
+msgstr "Дополнительно"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/contact.php:47
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-sidebar.php:37
+msgid "Your email address"
+msgstr "Ваш email адрес"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/contact.php:53
+msgid "Subject"
+msgstr "Тема"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/contact.php:60
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-send-friend.php:78
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:89
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-sidebar.php:46
+msgid "Message"
+msgstr "Сообщение"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/contact.php:68
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-send-friend.php:87
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:112
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:215
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-sidebar.php:69
+msgid "Send"
+msgstr "Отправить"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/footer.php:32
+#: C:\PlayAndBay\oc-content\themes\bender_black/header.php:68
+#, php-format
+msgid "Hi %s"
+msgstr "Здравствуйте %s"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/footer.php:33
+#: C:\PlayAndBay\oc-content\themes\bender_black/header.php:69
+msgid "My account"
+msgstr "Мой акаунт"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/footer.php:34
+#: C:\PlayAndBay\oc-content\themes\bender_black/header.php:70
+msgid "Logout"
+msgstr "Выйти"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/footer.php:37
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:344
+#: C:\PlayAndBay\oc-content\themes\bender_black/header.php:73
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:54
+msgid "Login"
+msgstr "Войти"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/footer.php:40
+#: C:\PlayAndBay\oc-content\themes\bender_black/header.php:75
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:55
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-login.php:58
+msgid "Register for a free account"
+msgstr "Быстрая регистрация"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/footer.php:45
+#: C:\PlayAndBay\oc-content\themes\bender_black/header.php:78
+msgid "Publish your ad for free"
+msgstr "Опубликовать объявление"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/footer.php:59
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:348
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-sidebar.php:26
+msgid "Contact"
+msgstr "Связаться"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/footer.php:65
+msgid "Language:"
+msgstr "Язык:"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:29
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:44
+msgid "ie. PHP Programmer"
+msgstr "поиск ..."
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:155
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:67
+msgid "Edit item"
+msgstr "Изменить объявление"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:157
+#: C:\PlayAndBay\oc-content\themes\bender_black/premiums.php:30
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr ""
+"Это действие не может быть отменено. Вы уверены, что хотите продолжить?"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:157
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:164
+#: C:\PlayAndBay\oc-content\themes\bender_black/premiums.php:30
+#: C:\PlayAndBay\oc-content\themes\bender_black/common/head.php:3
+msgid "Delete"
+msgstr "Удалить"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:160
+#: C:\PlayAndBay\oc-content\themes\bender_black/premiums.php:33
+msgid "Activate"
+msgstr "Активировать"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:166
+msgid "Paid!"
+msgstr "Оплачено!"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:168
+msgid "Pay for this item"
+msgstr "Оплатить это объявление"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:176
+msgid "Already premium!"
+msgstr "Премиум"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:178
+msgid "Make premium"
+msgstr "Сделать премиум"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:329
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:40
+msgid "Publish a listing"
+msgstr "Опубликовать объявление"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:330
+msgid "Edit your listing"
+msgstr "Изменить объявление"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:331
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-send-friend.php:31
+msgid "Send to a friend"
+msgstr "Отправить друго"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:332
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:40
+msgid "Contact publisher"
+msgstr "Связаться с автором"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:333
+msgid "Search results"
+msgstr "Результаты поиска"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:334
+#, php-format
+msgid "Search results: %s"
+msgstr "Результаты поиска: %s"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:335
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:358
+msgid "Dashboard"
+msgstr "Профиль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:336
+#, php-format
+msgid "%s's profile"
+msgstr "%s профиль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:337
+msgid "Account"
+msgstr "Акаунт"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:338
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-dashboard.php:41
+msgid "My listings"
+msgstr "Мои объявления"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:339
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:363
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-alerts.php:33
+msgid "My searches"
+msgstr "Мои подписки"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:340
+msgid "Update my profile"
+msgstr "Обновить профиль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:341
+msgid "Change my email"
+msgstr "Изменить email"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:342
+msgid "Change my username"
+msgstr "Изменить имя пользователя"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:343
+msgid "Change my password"
+msgstr "Изменить пароль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:345
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-forgot_password.php:30
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-recover.php:30
+msgid "Recover your password"
+msgstr "Восстановить пароль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:346
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_password.php:33
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:197
+msgid "Change your password"
+msgstr "Изменить пароль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:347
+msgid "Create a new account"
+msgstr "Создать новый акаунт"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:368
+msgid "Settings"
+msgstr "Настройки"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:441
+msgid "Theme settings updated correctly"
+msgstr "Настройки темы обновлены"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:448
+msgid "The logo image has been uploaded correctly"
+msgstr "Лого обновлено"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:450
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:453
+msgid "An error has occurred, please try again"
+msgstr "Ошибка, пожалуйста, попробуйте еще"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:460
+msgid "The logo image has been removed"
+msgstr "Лого удалено"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:462
+msgid "Image not found"
+msgstr "Картинка не найдена"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:469
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:7
+msgid "Header logo"
+msgstr "Головное лого"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/functions.php:470
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/settings.php:24
+msgid "Theme settings"
+msgstr "Настройки темы"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/header.php:90
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:55
+msgid "Select a category"
+msgstr "Выберите категорию"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:51
+msgid "General Information"
+msgstr "Основная информация"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:53
+#: C:\PlayAndBay\oc-content\themes\bender_black/search-sidebar.php:69
+msgid "Category"
+msgstr "Категория"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:59
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:203
+msgid "Title"
+msgstr "Заголовок"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:65
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:83
+msgid "Description"
+msgstr "Описание"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:73
+#: C:\PlayAndBay\oc-content\themes\bender_black/search-sidebar.php:57
+msgid "Price"
+msgstr "Цена"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:83
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:86
+msgid "Photos"
+msgstr "Фото"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:93
+msgid "Add new photo"
+msgstr "Добавить фото"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:100
+msgid "Listing Location"
+msgstr "Местонахождение"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:103
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:59
+msgid "Country"
+msgstr "Страна"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:109
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:65
+msgid "Region"
+msgstr "Регион"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:115
+#: C:\PlayAndBay\oc-content\themes\bender_black/search-sidebar.php:40
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:71
+msgid "City"
+msgstr "Город"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:121
+msgid "City Area"
+msgstr "Область"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:127
+msgid "Address"
+msgstr "Адрес"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:136
+msgid "Seller's information"
+msgstr "Информация об авторе"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:138
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:59
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:41
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-register.php:39
+msgid "Name"
+msgstr "Имя"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:144
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-login.php:38
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-recover.php:37
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-register.php:45
+msgid "E-mail"
+msgstr "E-mail"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:151
+msgid "Show e-mail on the listing page"
+msgstr "Показать e-mail на странице объявления"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:164
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_email.php:55
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_password.php:60
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_username.php:98
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:90
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:162
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:190
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:224
+msgid "Update"
+msgstr "Обновить"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-post.php:164
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-send-friend.php:50
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:196
+msgid "Your e-mail"
+msgstr "Ваш e-mail"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-send-friend.php:57
+msgid "Your friend's name"
+msgstr "Имя Вашего друга"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-send-friend.php:63
+msgid "Your friend's e-mail address"
+msgstr "E-mail адрес Вашего друга"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-send-friend.php:70
+msgid "Subject (optional)"
+msgstr "Тема (дополнительно)"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:30
+msgid "Mark as..."
+msgstr "Пометить как..."
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:31
+msgid "Mark as spam"
+msgstr "Пометить как спам"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:32
+msgid "Mark as misclassified"
+msgstr "Пометить как не по теме"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:33
+msgid "Mark as duplicated"
+msgstr "Пометить как дублирующийся"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:34
+msgid "Mark as expired"
+msgstr "Пометить как законченый"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:35
+msgid "Mark as offensive"
+msgstr "Пометить как оскорбительный"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:43
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Объявление истекло. Вы не можете связаться с автором."
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:47
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Это Ваше объявление. Вы не можете связаться с автором."
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:51
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr "Вы должны войти или зарегистрироваться, чтобы  связаться с автором"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:61
+#, php-format
+msgid "Name: %s"
+msgstr "Имя: %s"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:64
+#, php-format
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:67
+#, php-format
+msgid "Phone: %s"
+msgstr "Телефон: %s"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:80
+msgid "Your e-mail address"
+msgstr "Ваш e-mail адрес"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:84
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-sidebar.php:41
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:106
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-sidebar.php:63
+msgid "Enter the words above"
+msgstr "Введите слова ниже"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item-sidebar.php:108
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-sidebar.php:65
+msgid "Help"
+msgstr "Помощь"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:55
+#, php-format
+msgid "<strong class=\"publish\">Published date</strong>: %1$s"
+msgstr "<strong class=\"publish\">Дата публикации</strong>: %1$s"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:58
+#, php-format
+msgid "<strong class=\"update\">Modified date:</strong> %1$s"
+msgstr "<strong class=\"update\">Дата изменения:</strong> %1$s"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:61
+#: C:\PlayAndBay\oc-content\themes\bender_black/main.php:60
+msgid "Location"
+msgstr "Местоположение"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:76
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:81
+msgid "Image"
+msgstr "Картинка"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:110
+#, fuzzy
+msgid "Contact seller"
+msgstr "Связаться"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:114
+msgid "views"
+msgstr "просмотров"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:117
+msgid "Share"
+msgstr "Рассказать"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:123
+msgid "Useful information"
+msgstr "Полезная информация"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:125
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Воизбежание мошенничества платите при личной встрече или через PayPal"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:126
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Никогда не платите через Western Union, Moneygram и другие анонимные системы "
+"платежей"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:127
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Не покупайте и не продавайте за пределами Вашей страны. Не принимайте "
+"заграничные переводы."
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:128
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Этот сайт никогда не вовлечен ни в какие оплаты и прочие транзакции, "
+"доставки, гарантии."
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:135
+#, fuzzy
+msgid "Related listings"
+msgstr "Мои объявления"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:153
+msgid "Comments"
+msgstr "Комментарии"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:160
+msgid "by"
+msgstr "от"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:164
+#, fuzzy
+msgid "Delete your comment"
+msgstr "Удалить акаунт"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:176
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Оставить комментарий"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/item.php:209
+msgid "Comment"
+msgstr "Комментарий"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/main.php:30
+msgid "Latest job offers"
+msgstr "Последние объявления"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/main.php:32
+msgid "There aren't job offers available at this moment"
+msgstr "Нет доступных объявлений на данный момент"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/main.php:50
+msgid "See all offers"
+msgstr "Все преложения"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/premiums.php:18
+msgid "Sponsored ad"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/premiums.php:28
+#, fuzzy
+msgid "Edit premium"
+msgstr "Сделать премиум"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search-sidebar.php:34
+#, fuzzy
+msgid "Your search"
+msgstr "Мои поиски"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search-sidebar.php:47
+msgid "Show only"
+msgstr "Показать только"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search-sidebar.php:50
+msgid "Show only items with pictures"
+msgstr "с фото"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search-sidebar.php:58
+msgid "Min"
+msgstr "Мин"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search-sidebar.php:60
+msgid "Max"
+msgstr "Мак"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search-sidebar.php:100
+msgid "Apply"
+msgstr "Применить"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search.php:47
+#: C:\PlayAndBay\oc-content\themes\bender_black/search_gui.php:71
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "Нет результатов соответствущих \"%s\""
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search.php:54
+#: C:\PlayAndBay\oc-content\themes\bender_black/search_gui.php:78
+msgid "Show filters"
+msgstr "Показать фильтры"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search.php:56
+#: C:\PlayAndBay\oc-content\themes\bender_black/search_gui.php:80
+msgid "List"
+msgstr "Список"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search.php:57
+#: C:\PlayAndBay\oc-content\themes\bender_black/search_gui.php:81
+msgid "Grid"
+msgstr "Сеть"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search.php:81
+#: C:\PlayAndBay\oc-content\themes\bender_black/search_gui.php:157
+msgid "Other searches that may interest you"
+msgstr "Другие поиски, которые могут Вас заинтересовать"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search_gui.php:55
+msgid "Selected"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search_gui.php:56
+msgid "Nothing selected, input was"
+msgstr ""
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/search_gui.php:85
+msgid "Sort by"
+msgstr "Сортировать по"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-alerts.php:35
+msgid "You do not have any alerts yet"
+msgstr "У вас нет подписок"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-alerts.php:42
+msgid "Alert"
+msgstr "Оповещение"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-alerts.php:42
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+"Это действие не может быть отменено. Вы уверены, что хотите продолжить?"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-alerts.php:42
+msgid "Delete this alert"
+msgstr "Удалить это оповещение"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-alerts.php:49
+msgid "Listings"
+msgstr " Мои объявления"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_email.php:34
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:169
+msgid "Change your e-mail"
+msgstr "Изменить email"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_email.php:42
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:177
+msgid "Current e-mail"
+msgstr "Текущий email"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_email.php:48
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:183
+msgid "New e-mail"
+msgstr "Новый email"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_password.php:41
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:205
+msgid "Current password"
+msgstr "Текущий пароль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_password.php:47
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-forgot_password.php:39
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:211
+msgid "New password"
+msgstr "Новый пароль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_password.php:53
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-forgot_password.php:45
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:217
+msgid "Repeat new password"
+msgstr "Повторите пароль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_username.php:35
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:146
+msgid "Change your username"
+msgstr "Изменить имя пользователя"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_username.php:46
+msgid "Username: this field is required"
+msgstr "Имя пользователя: требуется это поле"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_username.php:71
+msgid "The username is available"
+msgstr "Пользователь доступен"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_username.php:73
+msgid "The username is NOT available"
+msgstr "Пользователь не доступен"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-change_username.php:90
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:154
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-dashboard.php:43
+msgid "No listings have been added yet"
+msgstr "Еще не было добавлено объявлений"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-forgot_password.php:52
+msgid "Change password"
+msgstr "Изменить пароль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-login.php:30
+msgid "Access to your account"
+msgstr "Доступ к Вашему аккаунту"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-login.php:44
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-register.php:52
+#, fuzzy
+msgid "Password"
+msgstr "Изменить пароль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-login.php:51
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-login.php:54
+msgid "Log in"
+msgstr "Войти"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-login.php:58
+#, fuzzy
+msgid "Forgot password?"
+msgstr "Восстановить пароль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:32
+msgid "Update your profile"
+msgstr "Обновить профиль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:47
+msgid "User type"
+msgstr "Тип пользователя"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:53
+msgid "Cell phone"
+msgstr "Телефон"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:77
+msgid "City area"
+msgstr "Область"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:99
+#, fuzzy
+msgid "PM Settings"
+msgstr "Настройки темы"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:108
+msgid "Notify by email every time you get a new personal message"
+msgstr "Оповещать по email каждый раз при получении нового сообщения"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:111
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:120
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:130
+msgid "Always"
+msgstr "Всегда"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:112
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:121
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:131
+msgid "Never"
+msgstr "Никогда"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:117
+msgid "Show a flash message when you have new personal messages"
+msgstr "Показывать быстрое сообщение при получении нового личного сообщения?"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:127
+msgid "Save a copy of each personal message in your outbox by default"
+msgstr ""
+"Сохранять копию каждого личного сообщения в папке исходящие по умолчанию?"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:139
+#, fuzzy
+msgid "Save Settings"
+msgstr "Настройки темы"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:231
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-profile.php:233
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-sidebar.php:28
+msgid "Delete account"
+msgstr "Удалить акаунт"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-profile.php:67
+#, php-format
+msgid "<strong>Address:</strong> %1$s"
+msgstr "<strong>Адрес:</strong> %1$s"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-profile.php:70
+#, php-format
+msgid "<strong>Location:</strong> %1$s"
+msgstr "<strong>Местоположения:</strong> %1$s"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-profile.php:75
+msgid "User description"
+msgstr "Описание пользователя"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-public-profile.php:80
+#, fuzzy
+msgid "Latest listings"
+msgstr "Мои объявления"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-recover.php:45
+#, fuzzy
+msgid "Send me a new password"
+msgstr "Изменить пароль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-register.php:31
+msgid "Register an account for free"
+msgstr "Зарегистрировать аккаунт"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-register.php:58
+#, fuzzy
+msgid "Repeat password"
+msgstr "Восстановить пароль"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-register.php:62
+msgid "Passwords don't match"
+msgstr "Пароли не совпадают"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-register.php:69
+msgid "Create"
+msgstr "Создать"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-sidebar.php:23
+msgid "Display menu"
+msgstr "Показать меню"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/user-sidebar.php:29
+msgid "Are you sure you want to delte your account?"
+msgstr "Вы уверены, что хотите удалить пользователя?"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:10
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:17
+msgid "Remove logo"
+msgstr "Удалить лого"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:25
+msgid "No logo has been uploaded yet"
+msgstr "Лого еще не загружалось"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:28
+#, fuzzy
+msgid "Upload logo"
+msgstr "Загрузить"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:30
+msgid "The preferred size of the logo is 600x100."
+msgstr "Предпочтительный размер для лого 600х100."
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:32
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<strong>Имейте в виду:</strong> Загрузка другого лого перезагрузит текущее "
+"лого."
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:40
+msgid "Logo image (png,gif,jpg)"
+msgstr "Картинка лого (png,gif,jpg)"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:46
+msgid "Upload"
+msgstr "Загрузить"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:55
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "Папка с картинками  <strong>%s</strong> не записывается"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:56
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass не может загрузить лого и панели администрации."
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:57
+msgid "Please make the aforementioned image folder writable."
+msgstr "Пожалуйста, сделайте соответствующую папку возможной для записи."
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/header.php:62
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"Чтобы сделать папку возможной для записи в UNIX выполните следующую команду:"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/settings.php:14
+msgid ""
+"I would like to contribute to the development of Osclass with a donation of"
+msgstr "Я хотел бы внести свой вклад в развитие Osclass пожертвовав"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/settings.php:19
+msgid "Custom"
+msgstr "Пошлина"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/settings.php:20
+msgid "Donate"
+msgstr "Пожертвовать"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/settings.php:30
+msgid "Search placeholder"
+msgstr "Поиск заполнителя"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/settings.php:34
+msgid "Footer link"
+msgstr "Ссылка внизу"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/settings.php:36
+msgid ""
+"I want to help Osclass by linking to <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr ""
+"Я хочу помочь Osclass перейдя на <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> с моего сайт со следующим текстом:"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/settings.php:37
+msgid ""
+"This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr ""
+"Этот вебсайт использует <a title=\"Osclass web\" href=\"http://osclass.org/"
+"\">classifieds scripts</a> software <strong>Osclass</strong>"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/admin/settings.php:41
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: C:\PlayAndBay\oc-content\themes\bender_black/common/head.php:4
+msgid "Cancel"
+msgstr "Отменить"
+
+#~ msgid "Change email"
+#~ msgstr "Изменить email"
+
+#~ msgid "Change username"
+#~ msgstr "Изменить имя пользователя"
+
+#~ msgid "Editttt item"
+#~ msgstr "Из hgjg"
+
+#~ msgid "Phone"
+#~ msgstr "Телефон"
+
+#~ msgid "Website"
+#~ msgstr "Сайт"

@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Osclass 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-09 03:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Juanjo García <jjgarcia@diseno-eag.com>\n"
+"Language-Team: Diseño Edit Art Group <juanjogarcia@editartgroup.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:39
+msgid "Settings Saved"
+msgstr "Ajustes guardados"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:46
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:221
+msgid "Meta Options"
+msgstr "Opciones de Meta"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:56
+msgid "Meta Keyword Settings"
+msgstr "Configuración de Meta Keyword"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:57
+msgid "Use the custom keywords defined below?"
+msgstr "¿Utilizar las palabras clave personalizadas definidas a continuación?"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:59
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:71
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:78
+msgid "Yes"
+msgstr "Si"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:60
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:72
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:79
+msgid "No"
+msgstr "No"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:64
+msgid "Keywords: (Seperate keywords with a comma)"
+msgstr "Palabras clave: (palabras clave separadas con comas)"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:69
+msgid "Show the city in the title of items?"
+msgstr "¿Mostrar la ciudad en el título del elemento?"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:76
+msgid "Show the sites name first in the title?"
+msgstr "¿Mostrar primero el nombre del sitio en el título?"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:84
+msgid "Update"
+msgstr "Actualizar"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:88
+msgid "Version"
+msgstr "Versión"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/config.php:88
+msgid "Author"
+msgstr "Autor"
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:48
+msgid "Publish a listing"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:49
+msgid "Edit your listing"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:50
+msgid "Send to a friend"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:51
+msgid "Contact seller"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:59
+msgid "Error"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:70
+msgid "page"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:80
+msgid "Show all listings"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:106
+msgid "Search results"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:117
+msgid "Recover your password"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:118
+msgid "Login"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:122
+msgid "Create a new account"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:126
+msgid "Dashboard"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:127
+msgid "Manage my listings"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:128
+msgid "Manage my alerts"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:129
+msgid "Update my profile"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:130
+msgid "Public profile"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:131
+msgid "Change my email"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:132
+msgid "Change my password"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:133
+msgid "Recover my password"
+msgstr ""
+
+#: /Users/Juanjo/Documents/Mis
+#: librerias/CMS/OSCLASS/Plugins/meta_edit_v1.1/meta_edit/index.php:137
+msgid "Contact"
+msgstr ""
